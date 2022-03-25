@@ -1,0 +1,9 @@
+.WearableDetail .PageHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.WearableDetail .issue-number {
+  color: var(--secondary-text);
+}
