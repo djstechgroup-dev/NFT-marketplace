@@ -1,6 +1,6 @@
 # Marketplace
 
-SmartDev Group's Marketplace
+DJS Tech Group's Marketplace
 
 ## Frontend
 
